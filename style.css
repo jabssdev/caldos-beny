@@ -250,10 +250,17 @@ q {
 
   .slider-container {
     flex-direction: column;
+    margin-top: 0;
+    gap: 50px;
   }
 
   .text {
     text-align: center;
+  }
+
+  .text h1 {
+    font-size: 36px;
+    margin-top: 0;
   }
 
   .card {
