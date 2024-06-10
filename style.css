@@ -139,6 +139,7 @@ nav a:hover {
 
 .title {
   margin-bottom: 20px;
+  font-size: 25px;
 }
 
 .plato {
@@ -184,9 +185,17 @@ nav a:hover {
   color: var(--dark-color);
 }
 
+.review-section p {
+  font-size: 20px;
+  font-style: italic;
+  text-align: justify;
+}
+
 q {
   quotes: none;
   font-weight: bold;
+  font-size: 18px;
+  font-style: italic;
 }
 
 .cart-container {
